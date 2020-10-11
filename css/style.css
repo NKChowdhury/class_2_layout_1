@@ -1,0 +1,29 @@
+header{
+background-color: blueviolet;
+}
+nav{
+
+    background-color: chartreuse;
+}
+
+div{
+    overflow: hidden;
+}
+
+article{
+    background-color: cyan;
+    height: 300px;
+    width: 50%;
+    float: right;
+}
+
+aside{
+    background-color: darkcyan;
+    height: 300px;
+    width: 50%;
+    float: left;
+}
+
+footer{
+    background-color: darkorchid;
+}
